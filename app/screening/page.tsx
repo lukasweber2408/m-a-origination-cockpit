@@ -260,7 +260,7 @@ function ScreeningContent() {
   );
 }
 
-export default ScreeningContent;
+// ScreeningContent is used internally below
 
 const SCREENING_CARDS = [
   {
